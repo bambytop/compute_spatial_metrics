@@ -2,7 +2,7 @@
 SUPPLEMENTARY MATERIAL: Quantitative XAI Metrics Reproduction Package
 Paper Title: Quantitative Grad-CAM Analysis of a Data-Centric Pipeline for 
              Hard-Class Plant Leaf Disease Classification
-Authors: Bambang Priambodo, Abdul Fadlil, Sunardi
+Authors: Bambang Priambodo
 ================================================================================
 
 OVERVIEW
