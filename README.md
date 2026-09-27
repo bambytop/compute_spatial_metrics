@@ -1,8 +1,5 @@
 ================================================================================
 SUPPLEMENTARY MATERIAL: Quantitative XAI Metrics Reproduction Package
-Paper Title: Quantitative Grad-CAM Analysis of a Data-Centric Pipeline for 
-             Hard-Class Plant Leaf Disease Classification
-Authors: Bambang Priambodo
 ================================================================================
 
 OVERVIEW
@@ -58,8 +55,3 @@ Upon successful execution, the script will generate:
                      (corresponds to Table 5 in the manuscript).
 3. Console Output  : The per-class stratified analysis for C8, C31, and C35 
                      (corresponds to Table 6 in the manuscript).
-
-CONTACT
--------
-For any issues regarding the reproduction of these results, please contact 
-the corresponding author at: 2436083026@webmail.uad.ac.id
